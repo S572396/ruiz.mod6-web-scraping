@@ -16,13 +16,9 @@ python -m pip install spacytextblob
 python.exe -m pip install --upgrade pip
 
 
-#### Create and activate a Python virtual environment. 
-#### Before starting the project, try all these imports FIRST
-#### Address any errors you get running this code cell 
-#### by installing the necessary packages into your active Python environment.
-#### Try to resolve issues using your materials and the web.
-#### If that doesn't work, ask for help in the discussion forums.
-#### You can't complete the exercises until you import these - start early! 
+#### Create and activate a Python virtual environment. Before starting the project, try all these imports FIRST. Address any errors you get running this code cell 
+#### by installing the necessary packages into your active Python environment. Try to resolve issues using your materials and the web.
+#### If that doesn't work, ask for help in the discussion forums. You can't complete the exercises until you import these - start early! 
 #### We also import pickle and Counter (included in the Python Standard Library).
 
 from collections import Counter
