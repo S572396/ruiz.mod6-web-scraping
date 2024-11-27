@@ -1,0 +1,3358 @@
+Sentence 1: How Laser Headlights Work | Hackaday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+Hackaday
+
+
+Primary Menu
+
+Home
+Blog
+Hackaday.io
+Tindie
+Hackaday Prize
+Submit
+About
+
+
+Search for:
+
+
+
+ March 27, 2021 
+
+
+
+
+
+
+How Laser Headlights Work
+
+
+                130 Comments            
+
+by:
+Lewin Day
+
+
+
+March 22, 2021
+
+
+
+
+
+
+
+
+When we think about the onward march of automotive technology, headlights aren’t usually the first thing that come to mind.
+Sentence 2: Engines, fuel efficiency, and the switch to electric power are all more front of mind.
+Sentence 3: However, that doesn’t mean there aren’t thousands of engineers around the world working to improve the state of the art in automotive lighting day in, day out.
+Sentence 4: Sealed beam headlights gave way to more modern designs once regulations loosened up, while bulbs moved from simple halogens to xenon HIDs and, more recently, LEDs.
+Sentence 5: Now, a new technology is on the scene, with lasers!
+Sentence 6: Laser Headlights?!
+Sentence 7: BWM’s prototype laser headlight assemblies undergoing testing.
+Sentence 8: The first image brought to mind by the phrase “laser headlights” is that of laser beams firing out the front of an automobile.
+Sentence 9: Obviously, coherent beams of monochromatic light would make for poor illumination outside of a very specific spot quite some distance away.
+Sentence 10: Thankfully for our eyes, laser headlights don’t work in this way at all.
+Sentence 11: Instead, laser headlights consist of one or more solid state laser diodes mounted inside the headlight.
+Sentence 12: These blue lasers are fired at a yellow phosphor, similar to that used in white LEDs.
+Sentence 13: This produces a powerful, vibrant white light that can then be bounced off reflectors and out of the headlights towards the road.
+Sentence 14: Laser headlights built in this way have several benefits.
+Sentence 15: They’re more energy efficient than LEDs that put out the same amount of light, while also being more space efficient, too.
+Sentence 16: BWM’s futuristic i8 was one of the first vehicles to ship with laser headlight technology.
+Sentence 17: Laser headlights are still a nascent technology, thus far only appearing in a few BMW, Audi, and other select vehicles.
+Sentence 18: BMW’s technology was developed in partnership with lighting experts OSRAM.
+Sentence 19: In practice, a regular LED low-beam lamp is used, with the laser used to create an incredibly bright and focused spot, used for high-beams.
+Sentence 20: This can provide illumination out to 600 meters ahead of the vehicle, double that of conventional LED high beams.
+Sentence 21: The lights use indium gallium nitride diode lasers that were originally used in projectors, with power levels above 1 watt.
+Sentence 22: One of the challenges in implementing such technology in an automotive environment is the need for it to operate at temperature extremes.
+Sentence 23: While research lasers and laser pointers may primarily be used at typical room temperatures, automotive headlights must be able to withstand everything from 40 degrees below zero up to 50 degrees C. Thankfully, the laser’s high efficiency means it doesn’t have huge heat output of its own to further complicate things.
+Sentence 24: Other engineering challenges involve tailoring the optics package for the rough-and-tumble, high vibration environment found in the automotive application.
+Sentence 25: It’s also important to ensure, as with any such device, that the end user can’t be exposed to harmful laser radiation in the event of accident or malfunction.
+Sentence 26: Tearing Down the Laser Headlight
+A marketing image showing the construction of an aftermarket LED/laser headlight.
+Sentence 27: We’d take the laser power with a grain of salt — it’s difficult to imagine a 10 W laser shining directly on some small LEDs without melting a hole through the board in short order.
+Sentence 28: An aftermarket has sprung up too, with delightfully innovative designs.
+Sentence 29: Combined laser/LED headlights are readily available on Alibaba, designed as a drop in replacement for projector lamps on existing vehicles.
+Sentence 30: These often use an LED low-beam, and a combined LED/laser high beam, where the laser diode shoots directly at the LED phosphor to excite it further, rather than using its own.
+Sentence 31: These units often also come with fan cooling to keep the laser and LEDs below their maximum operational temperature.
+Sentence 32: Such developments are exciting, though it’s important to be wary of the performance of unknown aftermarket headlights.
+Sentence 33: Many aftermarket LED headlight “upgrades” fail to pass muster when it comes to real-world performance, and there’s no reason to believe hybrid LED/laser designs will be any different.
+Sentence 34: We’d love to pass a selection of these parts through a full IIHS test protocol, but that’s sadly beyond the scope (and budget!)
+Sentence 35: of this article.
+Sentence 36: However, [mikeselectricstuff] has happened to lay his hands on both the BMW and aftermarket parts, tearing them all down in his workshop to see what makes them tick.
+Sentence 37: The differences are multitude when laid bare on the bench.
+Sentence 38: The AliExpress part is relatively simple, wired up no differently from a regular headlight.
+Sentence 39: Interestingly, however, the laser high-beam circuit runs all the time in these parts.
+Sentence 40: To prevent blinding other road users, a shutter is kept in place to block the light, which is moved out of the way with a solenoid when the driver turns on the high beam switch.
+Sentence 41: Where the aftermarket part is a little out of left field, the BMW design is another thing entirely.
+Sentence 42: The cutting-edge headlights are hooked up with multiple connectors and over 30 conductors, with much of the driver electronics living in an external controller.
+Sentence 43: Much of this is to drive the various LEDs and stepper motors for slewing the headlights when steering.
+Sentence 44: However, the laser assembly brings its own complexities.
+Sentence 45: Twin light sensors are built inside to monitor the laser beam, and a special metal blocking arm sits directly in front of the diode, presumably to stop the laser light leaving the headlight in the event the phosphor coating burns through.
+Sentence 46: It’s truly wild to get a look inside a modern luxury car’s headlight and see just how far we’ve come from the old days of simple sealed beams.
+Sentence 47: Cost Versus Performance
+Despite the efficiency gains available, the technology remains expensive.
+Sentence 48: Powerful laser diodes don’t come cheap, after all.
+Sentence 49: However, as the technology trickles down to lower-end models, it’s likely that we could see economies of scale change that for the better.
+Sentence 50: Indeed, if national authorities begin to demand higher performance headlights as standard, we could see laser headlights become the norm, rather than an expensive luxury.
+Sentence 51: The technology could naturally be applied to home and commercial lighting, too — though we suspect the potential gains are limited enough that LED lighting will remain the norm for some time to come.
+Sentence 52: The high light output of laser headlights in a compact package allows engineers greater freedom when designing the front-end of a car.
+Sentence 53: As it currently stands, much of the appeal of the new technology is about the packaging benefits, which allow automotive designers greater freedom around the headlight area.
+Sentence 54: Such concerns are less of a factor when it comes to light fittings in the home or office, or indeed, on lower-end automobiles.
+Sentence 55: Regardless, it’s an exciting new application for lasers and one we’ll be sure to see more of in the future.
+Sentence 56: Posted in car hacks, Engineering, Featured, Laser Hacks, SliderTagged laser, laser headlight, laser headlights, light 
+
+
+Post navigation
+
+← Cursed USB-C: When Plug Orientation MattersRead Your Movies As Automatically Generated Comic Books → 
+
+
+
+
+
+
+            130 thoughts on “How Laser Headlights Work”        
+
+
+
+
+
+Ostracus says: 
+
+
+
+							March 22, 2021 at 7:21 am						
+
+
+
+
+Headlights with…*pew*pew*pew*.
+Sentence 57: But the main issue I find is how harsh they are on other drivers vision.
+Sentence 58: Report comment 
+Reply 
+
+
+
+
+
+Ken Boak says: 
+
+
+
+							March 22, 2021 at 8:16 am						
+
+
+
+
+As someone in my 50s, with naturally deteriorating eyesight, I am frequently dazzled by insanely bright HID or LED headlights.
+Sentence 59: Laser excited phosphor headlights just sound like an tech overcomplication for up market German performance cars.
+Sentence 60: Most people don’t want to, or are unlikely to ever drive at 240km/h at night on a German autobahn.
+Sentence 61: Light emissions from these vehicles can be just as offensive as their tail-pipe emissions.
+Sentence 62: If the designers are bored and want to put more tech into vehicles just for the sake of it, they might consider an infrared floodlight and an IR camera connected to a head-up-display.
+Sentence 63: If you need to see 600m ahead of you in the dark – you are probably driving too fast.
+Sentence 64: Report comment 
+Reply 
+
+
+
+
+
+Starfix says: 
+
+
+
+							March 22, 2021 at 8:30 am						
+
+
+
+
+To be complete, these laser headlamps comes with a, intelligent driver that enable laser only under conditions (speed, steering wheel, no other car crossing).
+Sentence 65: But in my own opinion, with these restrictions you can see at 600m when… there’s nothing to see.
+Sentence 66: And who cares what’s happening at 600m ?
+Sentence 67: Report comment 
+Reply 
+
+
+
+
+
+Pat says: 
+
+
+
+							March 22, 2021 at 9:06 am						
+
+
+
+
+I’m… just trying to parse this.
+Sentence 68: You really think there’s no point to having vision out to 600 m (30 seconds at 70 kph) at night when there are no other cars on the road?
+Sentence 69: There are things on roads other than cars, you know.
+Sentence 70: A hard brake at 70 kph will take ~15 second to come to a stop, and carries a *big* risk if you’re the lead car with someone behind you.
+Sentence 71: This basically *doubles* the visibility distance.
+Sentence 72: I mean, yes, they’re a problem for oncoming traffic and drivers in front of you.
+Sentence 73: That’s why they’re high beams.
+Sentence 74: Report comment 
+Reply 
+
+
+
+
+
+Brakes says: 
+
+
+
+							March 22, 2021 at 9:54 am						
+
+
+
+
+A full stop from 70 KPH takes FIFTEEN SECONDS?
+Sentence 75: You need to get your brakes checked…
+
+
+Report comment 
+
+
+
+
+
+
+Dude says: 
+
+
+
+							March 22, 2021 at 10:04 am						
+
+
+
+
+I don’t think so.
+Sentence 76: An average car can do a hard stop within 70 meters from 70 kph (19.5 m/s) and that’s giving you two seconds of reaction time.
+Sentence 77: Assuming linear deceleration, your average stopping time will be between 7-8 seconds.
+Sentence 78: If you take twice that time, your brakes are shot.
+Sentence 79: Second point is, assuming average eyesight, the smallest distinct object you can just about make out from 600 meters away would be the size of a football, if it has enough contrast with the background, but that would require daylight levels of illumination, and no vibration and shaking from the vehicle.
+Sentence 80: In the dark, no matter how bright your headlights are, you would be lucky to make out an object the size of a truck at that distance.
+Sentence 81: It’s just gonna be a blur.
+Sentence 82: Report comment 
+
+
+
+
+
+
+asdf asdf says: 
+
+
+
+							March 22, 2021 at 10:13 am						
+
+
+
+
+A lot of cars can do a 60-0mph stop in less than 200 feet.
+Sentence 83: The heck are you driving for it to take 7-8 seconds?
+Sentence 84: Report comment 
+
+
+
+
+
+
+Pat says: 
+
+
+
+							March 22, 2021 at 10:40 am						
+
+
+
+
+“Assuming linear deceleration, your average stopping time will be between 7-8 seconds.
+Sentence 85: If you take twice that time, your brakes are shot.”
+Sentence 86: Unless the road’s wet, in which case the general estimate is a factor of two increase in stopping distance, which hey, gets you to around that 15 second mark (okay, maybe 12-13 seconds, I did put an ‘approximate’ there).
+Sentence 87: You don’t design safety for the *best* conditions.
+Sentence 88: Should’ve clarified that better, though.
+Sentence 89: “Second point is, assuming average eyesight, the smallest distinct object you can just about make out from 600 meters away would be the size of a football”
+… I’m sorry, do you generally worry about hitting footballs on the road?
+Sentence 90: I’m pretty sure the main things I worry about on roads (deer, vehicles, trees) are *way* bigger than footballs.
+Sentence 91: Besides, the main point isn’t seeing things at 600 m. It’s seeing things farther than ~200 m away, which is where normal high beams cut out.
+Sentence 92: Report comment 
+
+
+
+
+
+
+Pat says: 
+
+
+
+							March 22, 2021 at 10:42 am						
+
+
+
+
+“A lot of cars can do a 60-0mph stop in less than 200 feet.
+Sentence 93: The heck are you driving for it to take 7-8 seconds?”
+Sentence 94: It’s *safety* design, not friggin’ NASCAR.
+Sentence 95: Have you *seen* the way most people drive?
+Sentence 96: Report comment 
+
+
+
+
+
+
+thisistheguywhosbeenhereawhile says: 
+
+
+
+							March 22, 2021 at 10:52 am						
+
+
+
+
+ah yes, stoner reaction speed, I too live in a legal state
+
+
+Report comment 
+
+
+
+
+
+
+abjq says: 
+
+
+
+							March 22, 2021 at 11:02 am						
+
+
+
+
+My car does 60-0 (warm tyres and dry road) in about 10m.
+Sentence 97: But I agree, seeing 600m in front would be useful, when doing much higher speeds.
+Sentence 98: Report comment 
+
+
+
+
+
+
+Pat says: 
+
+
+
+							March 22, 2021 at 11:39 am						
+
+
+
+
+Bleh, dumb math correction: just ignore the time portion, that’s all screwed up.
+Sentence 99: Just replace the entire first part with “you think there’s no point to having vision out to 600 m when stopping distances on a wet road at 70 *mph* would be around 200 m?”
+Don’t do conversions in your heads, kids.
+Sentence 100: Report comment 
+
+
+
+
+
+
+bmw sucks says: 
+
+
+
+							March 25, 2021 at 9:42 am						
+
+
+
+
+actually… lowering light concentrations increases the visibility for everyone.
+Sentence 101: bright lights reduce visibility for everyone for up to 20 minutes (the amount of time it takes your eyes to adjust)
+because eyeballs actually take time to fully adjust to a dark environment.
+Sentence 102: vis-a-vie, when you flick a light switch off, you can’t see shit, but if you sit in that dark room for 20 minutes you’ll be able to see everything provided you don’t have poor eyesight.
+Sentence 103: bright lights are for dip shits that don’t understand the basic principles of how their own eyesight works.
+Sentence 104: there should be a small tax on the sale of every vehicle that goes toward adding a diffused ambient light to all major roadways so that way headlights are not even required.
+Sentence 105: and yes, diffused so that way the lights are not contributing to light pollution, and yes, we do have the technology (and it’s cheap) to create lighting in such a way.
+Sentence 106: it’s appalling how many people (even here) don’t understand these basic principles.
+Sentence 107: bright headlights are dumb.
+Sentence 108: focused headlights are even worse.
+Sentence 109: BMW’s headlights are garbage even though they have those ‘mitigating’ features, they still end up blinding you constantly.
+Sentence 110: They have had multiple iterations trying to do the same thing.
+Sentence 111: this comes from someone who worked at their manufacturing facilities.
+Sentence 112: those headlights are a giant pile of irritating garbage and you will get my brights turned on every time i see them, because they don’t adjust properly or fast enough.
+Sentence 113: it’s always too late, the tech literally doesn’t work well enough and they’re blowing a ton of money on learning how to properly blind the crap out of everyone on the road… but you can’t tell a german that they are wrong and their attempt to over engineer their way out of a problem is dumb… believe me, it’s a lost cause.
+Sentence 114: Report comment 
+
+
+
+
+
+
+
+
+
+
+a Jaded Hobo says: 
+
+
+
+							March 22, 2021 at 10:58 am						
+
+
+
+
+As a bicycle rider, I fully concur.
+Sentence 115: No smart sensor is going to detect me and prevent the high beams.
+Sentence 116: At the same time my eyes are completely over exposed making me virtually blind and unable to see where the bike lane is.
+Sentence 117: Or the bollards separating the car lane from the bike lane.
+Sentence 118: Report comment 
+Reply 
+
+
+
+
+
+RW ver 0.0.3 says: 
+
+
+
+							March 22, 2021 at 1:51 pm						
+
+
+
+
+When riding outside the city, I found I needed 2 lights, one angled down to see potholes, roadkill, etc in time, the other angled up to be bright enough not to get hit or get my retinas fried constantly with the high beams.
+Sentence 119: You get that problem with car reversing lights also, some are just all brightness directed out parallel to the ground so other cars see you reversing, some actually provide illumination so you can see to reverse at night.
+Sentence 120: The first type, you have to ride or tap your brakes all the time to dispel the inky blackness with the brake lights.
+Sentence 121: Report comment 
+Reply 
+
+
+
+
+
+smellsofbikes says: 
+
+
+
+							March 22, 2021 at 3:31 pm						
+
+
+
+
+FWIW I’ve worked on prototype LED headlight systems that look for oncoming traffic and cut out the LED’s that illuminate in that area, and about half my fellow LED lighting engineers are roughly as avid cyclists as I am.
+Sentence 122: We are thinking about and working on this.
+Sentence 123: In the US, the NTSB and DOT have functional requirements for automotive lighting that includes not blinding oncoming traffic.
+Sentence 124: Report comment 
+Reply 
+
+
+
+
+
+Mike says: 
+
+
+
+							March 22, 2021 at 4:41 pm						
+
+
+
+
+None of these “save the other drivers” technologies are good enough, at least not yet.
+Sentence 125: And based on the complaints here and elsewhere, it seems clear to me that the NHTSA, NTSB and DOT have all failed at their jobs.
+Sentence 126: If these “functional” requirements don’t have metrics attached, isn’t it just someone’s subjectivity making the decisions?
+Sentence 127: Note the metrics that did/do exist for halogen lights are not sufficient in protecting other drivers from these new headlight technologies.
+Sentence 128: New regulations are needed to address this increasingly complicated landscape of headlights.
+Sentence 129: Report comment 
+
+
+
+
+
+
+three_d_dave says: 
+
+
+
+							March 23, 2021 at 2:34 pm						
+
+
+
+
+It would be great if they worked.
+Sentence 130: So far the largest problem is that the lamps are bright enough that sufficient light is reflected down from the windshield to the dash and back to the windshield to leave very low contrast ahead of me from cars behind me.
+Sentence 131: And they are always shown on desert-flat roads, without any consideration for cresting hills.
+Sentence 132: But it’s great that you are working on this because the razor edge cut-off that drives 0% to 100% to 0% to 100% due to slight bumps in the road that wipe out all my night vision are really appreciated.
+Sentence 133: Those DOT requirements are whatever the industry bought and paid for SAE specification says it is, and it says nothing about things like blinding amounts of light reflected up from wet roads.
+Sentence 134: Report comment 
+
+
+
+
+
+
+Marty says: 
+
+
+
+							March 23, 2021 at 3:21 pm						
+
+
+
+
+There is a demo of a system like this that used a DPL projector and camera that took this idea to the extreme.
+Sentence 135: It was able to steer the headlights around rain and snow in real-time.
+Sentence 136: Made a big difference too!
+Sentence 137: Report comment 
+
+
+
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:26 am
+Sentence 138: But at least you could be seen earlier in the dark, if you have some retroreflectors Bikes have only a small silhouette and legal bicycle headlamps are only required to put out measly 10lm.
+Sentence 139: That’s easy to overlook.
+Sentence 140: Report comment 
+Reply 
+
+
+
+
+
+Nutjob1 says: 
+
+
+
+							March 26, 2021 at 11:46 am						
+
+
+
+
+Mike,  being America, politics tends to spoil legislation.
+Sentence 141: The DOT  has lagged behind for decades, not because they’re dullards but from states having political bearing on lighting standards for vehicles.
+Sentence 142: Finally, when round sealed beams went away as hood lines were lowered giving manufacturers more room to design custom headlights, we’re now flooded with halogen, hid, led and laser headlights.
+Sentence 143: Politics will always interfere with science, engineering and technology.
+Sentence 144: Report comment 
+
+
+
+
+
+
+
+
+
+
+some guy says: 
+
+
+
+							March 22, 2021 at 11:55 am						
+
+
+
+
+>
+Sentence 145: If you need to see 600m ahead of you in the dark – you are probably driving too fast.
+Sentence 146: +1
+Sentence 147: This is yet another nonsense stuff so people that have enough $$$ (and an inverse proportional sized brain) for BMW, Audi, … can boast about their “cool car” that they use to speed like crazy and endanger other peoples live.
+Sentence 148: We don’t need this.
+Sentence 149: Report comment 
+Reply 
+
+
+
+
+
+nospam says: 
+
+
+
+							March 23, 2021 at 6:28 am						
+
+
+
+
+Said by the city dweller who has never been exposed to critters suddenly crossing your path aka deer, moose, racoons.
+Sentence 150: The easier I can light them up hiding in the ditches the better.
+Sentence 151: Racoons can do several thousand dollars of damage to your nice plastic bumpered car and integrated $600 plastic headlight lenses.
+Sentence 152: Unfortunately there isn’t a cure for bad drivers.
+Sentence 153: They include the ones who drive without lights as well as the a-holes who drive with their high beams and fog lamps on all the time.
+Sentence 154: Report comment 
+Reply 
+
+
+
+
+
+RyanE says: 
+
+
+
+							March 23, 2021 at 10:47 am						
+
+
+
+
+We just need to mandate that wildlife wear high-vis reflective jackets.
+Sentence 155: :)
+
+
+Report comment 
+
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 10:58 am						
+
+
+
+
+The irony is that the brightness is achieved by blue light, which kills your night vision and you can see even worse outside of the direct beam.
+Sentence 156: Report comment 
+
+
+
+
+
+
+three_d_dave says: 
+
+
+
+							March 23, 2021 at 2:40 pm						
+
+
+
+
+Go 20 mph and the danger will largely be eliminated.
+Sentence 157: Report comment 
+
+
+
+
+
+
+
+
+
+
+Jesse says: 
+
+
+
+							March 22, 2021 at 5:51 pm						
+
+
+
+
+Could the problem be poorly designed aftermarket LEDs?
+Sentence 158: Low beams should have a solid cutoff line that’s about hood level, assuming the headlights are properly aimed.
+Sentence 159: I’ve seen a lot of aftermarket bulbs that won’t focus properly.
+Sentence 160: Even with a proper LED aftermarket bulb, I suspect that most people don’t bother checking the aim after they are installed.
+Sentence 161: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:21 am						
+
+
+
+
+Driving too fast?
+Sentence 162: No, never.
+Sentence 163: Only sometimes the speed limits are too low.
+Sentence 164: Report comment 
+Reply 
+
+
+
+
+
+
+
+Ø says: 
+
+
+
+							March 22, 2021 at 10:54 am
+Sentence 165: Yeah, at night they’re brutal, just like the “tuner look” xenon wannabes HID’s with extreme blue tint, or aftermarket xenon bulbs with such.
+Sentence 166: Same with rear LED indicators that sharply blinks on and off, though those are useful on a bright sunny day, but a nightmare at pitch black night.
+Sentence 167: Slap then on the “exterior light” sensor, so they fade in and out like a incandescent at night, but sharp at fulbright day.
+Sentence 168: Report comment 
+Reply 
+
+
+
+
+
+
+
+LuigI domenico carlo faustiniLouloulou says: 
+
+
+
+							March 22, 2021 at 7:23 am						
+
+
+
+
+How long until a misaligned laser is shooting 1 watt beams down the highway blinding everyone unfortunates enough to cross its path.
+Sentence 169: I can already see the class action lawsuits.
+Sentence 170: Just because you can do something, doesn’t mean you should.
+Sentence 171: Report comment 
+Reply 
+
+
+
+
+
+Lorenz says: 
+
+
+
+							March 22, 2021 at 7:54 am						
+
+
+
+
+“Twin light sensors are built inside to monitor the laser beam, and a special metal blocking arm sits directly in front of the diode, presumably to stop the laser light leaving the headlight in the event the phosphor coating burns through.”
+From the article.
+Sentence 172: If you want more info about it, you can watch mikeselectricstuff video about the headlights: https://www.youtube.com/watch?v=7fRjMHtnShs
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Erik Johnson says: 
+
+
+
+							March 22, 2021 at 8:17 am						
+
+
+
+
+Relying on mechanics and feedback loops, what could go wrong?
+Sentence 173: Report comment 
+Reply 
+
+
+
+
+
+jack324 says: 
+
+
+
+							March 22, 2021 at 8:52 am						
+
+
+
+
+The arm is fixed, and is almost certainly hefty enough to absorb 1-10w if laser energy without heating up all that much, so no burn through.
+Sentence 174: Also, there’s no misalignment if the the laser housing is placed in a premachined or cast part with no option for adjusting the alignment.
+Sentence 175: So basically as is designed, if the phosphor coating is destroyed and the arm isn’t a mirror, then all that happens is the lasert light gets scattered around the headlight interior and at best some leaks out but due to light spreading out, unless you where right up on the spot where the phosphor was you wouldn’t get enough laser energy hitting your eye to do any damage.
+Sentence 176: Stop worrying about imagined danger when there isn’t any.
+Sentence 177: Report comment 
+Reply 
+
+
+
+
+
+Foldi-One says: 
+
+
+
+							March 22, 2021 at 9:40 am						
+
+
+
+
+With the vibrations, poor maintenance and how little laser energy it needs to damage the eye I’d say there is a very real danger still.
+Sentence 178: If you can be 100% certain the heatsinking and orientation of the this blocking arm you are not putting it in a car in the real world, where the sudden shock of hitting a pot hole or curb and the generally harsh environment with constant vibrations of a bad road has broken things its not supposed to be able to many many times now…
+I’m sure its perfectly safe as a technology in the lab, will be fine in cars for a while, but at some point the housing will crack/bend, the arm will corrode, water can ingress etc etc, and being an invisible problem there will be stray lasers that can cause serious eye damage out there, because nobody noticed the failure yet (when its throwing dazzingly bright light hundreds of meters by design even shedding a sizeable percentage won’t be obvious to the driver much of the time, and cracked parts or water inside are not always visible without complete disassembly and possibly x-rays either)
+Sentence 179: Report comment 
+
+
+
+
+
+
+
+
+SteveS says: 
+
+
+
+							March 22, 2021 at 9:37 am						
+
+
+
+
+ Therac-25 
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+
+
+Antron Argaiv says: 
+
+
+
+							March 22, 2021 at 7:30 am						
+
+
+
+
+Great, now when is someone going to move the turn signals away from the headlights, so you can actually see them against the glare?
+Sentence 180: Report comment 
+Reply 
+
+
+
+
+
+Raniz says: 
+
+
+
+							March 22, 2021 at 7:42 am						
+
+
+
+
+Lots of cars have indicators on the side mirrors.
+Sentence 181: One can only hope that becomes standard.
+Sentence 182: Report comment 
+Reply 
+
+
+
+
+
+anonymous commenter says: 
+
+
+
+							March 23, 2021 at 1:43 pm						
+
+
+
+
+I’ve seen a few cars where the headlight switches to a running light only when the indicator on that side is on.
+Sentence 183: Mostly on the high end cars, but I think I’ve seen it trickle down to some Jeeps too.
+Sentence 184: That said, +1 for indicators on mirrors as standard.
+Sentence 185: Report comment 
+Reply 
+
+
+
+
+
+jenningsthecat says: 
+
+
+
+							March 25, 2021 at 5:32 pm						
+
+
+
+
+Those indicators are too distracting even during the day, and worse at night.
+Sentence 186: If I’m ever forced to own a car with them then my first ‘customization’ will involve diagonal cutters.
+Sentence 187: Failing that, scuffing the lenses with sandpaper, followed by a coating of steel-filled epoxy.
+Sentence 188: Effective and safe automotive illumination was a solved problem 30 years ago, and most subsequent ‘improvements’ represent a triumph of style over substance.
+Sentence 189: Even a lot of LED lighting is a distracting and annoying nuisance, except in those instances where the PWM frequency is high enough where my eyes see only a faint flicker instead of the illusion that the lights are jumping around in mid-air.
+Sentence 190: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Arthur Wolf says: 
+
+
+
+							March 22, 2021 at 7:37 am						
+
+
+
+
+Where would one buy one of these 40W phosphor laser tube thingies?
+Sentence 191: Report comment 
+Reply 
+
+
+
+
+
+Daniel Dunn says: 
+
+
+
+							March 22, 2021 at 8:38 am						
+
+
+
+
+They have them in flashlight form now, but they look excessively dangerous and almost useless as a flashlight unless you’re lighting up something a mile away and have a scope or something.
+Sentence 192: They’re really cool though.
+Sentence 193: Report comment 
+Reply 
+
+
+
+
+
+Arthur Wolf says: 
+
+
+
+							March 22, 2021 at 8:47 am						
+
+
+
+
+But where do I buy one?
+Sentence 194: They seem like they might possibly be a cost-effective solution for my high-power visible-light laser needs for an electrochemistry project I’m working on.
+Sentence 195: But I can’ t find these easily on aliexpress or anywhere.
+Sentence 196: I probably don’t know the right keywords.
+Sentence 197: Report comment 
+Reply 
+
+
+
+
+
+Hirudinea says: 
+
+
+
+							March 22, 2021 at 12:34 pm						
+
+
+
+
+They have flashlights like this?
+Sentence 198: How much do they cost?
+Sentence 199: One might be be able to replace an unobtainium projector bulb.
+Sentence 200: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Telek says: 
+
+
+
+							March 22, 2021 at 7:48 am						
+
+
+
+
+This does really worry me.
+Sentence 201: I already have problems with many HID headlights that are from such a focused beam of light that they are piercing at night and nearly blind me with oncoming traffic.
+Sentence 202: This is only going to make it worse.
+Sentence 203: We need much more diffuse light, not more concentrated light.
+Sentence 204: Use LEDs across the entire front of the car – that will give much more light but also more diffuse so that it’s not going to kill my night vision every time I drive by one.
+Sentence 205: Report comment 
+Reply 
+
+
+
+
+
+bm says: 
+
+
+
+							March 22, 2021 at 8:00 am						
+
+
+
+
+Maybe it’s time I revisit my active shutter headlight idea.
+https://hackaday.io/project/11142-active-shutter-vehicle-headlight-glare-reduction
+
+
+Report comment 
+Reply 
+
+
+
+
+
+macsimski says: 
+
+
+
+							March 22, 2021 at 8:22 am						
+
+
+
+
+*this.
+Sentence 206: People designing headlights never drive at night in a landscape with hills.
+Sentence 207: I have to forcefully look away to not be blinded by all those new types of searchlights lower safety significantly.
+Sentence 208: And then of course the headlights that are adjusted too high because of load in the back of the car.
+Sentence 209: I’m happy my car has sealed beam lights and is auto leveling.
+Sentence 210: But yes.
+Sentence 211: Those bmw’s, audi’s, vw’s, volvos and suvs are a safety hazard for the rest of the cars around them.
+Sentence 212: If i’m in a bad mood, I just turn on my big lights if one is approaching me.
+Sentence 213: How many lumens is enough you think.
+Sentence 214: Report comment 
+Reply 
+
+
+
+
+
+Ø says: 
+
+
+
+							March 22, 2021 at 10:58 am						
+
+
+
+
+Pretty sure auto leveling is mandatory on cars in Germany with anything wilder than ordinary HID’s (along with headlight washers), but that doesn’t stop someone from fiddling with the “baseline” height screw, or bumblefuck on a crappy lowering kit.
+Sentence 215: Report comment 
+Reply 
+
+
+
+
+
+macsimski says: 
+
+
+
+							March 23, 2021 at 2:31 am						
+
+
+
+
+And being blinded by oncoming cars when crossing a bridge…
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:34 am						
+
+
+
+
+Not completely true.
+Sentence 216: Auto leveling is mandatory in Europe already for “ordinary HID’s”.
+Sentence 217: So for sure for LED or laser.
+Sentence 218: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+BillSF9c says: 
+
+
+
+							March 22, 2021 at 8:24 am						
+
+
+
+
+I hate the blinding diffused.
+Sentence 219: I love the highly accurate halogens which have a sharp ctuoff horizontally.
+Sentence 220: W some cars you can see a sharp line just below the rear window on the car in front.
+Sentence 221: >”We’d take the laser power with a grain of salt — it’s difficult to imagine a 10 W laser shining directly on some small LEDs without melting a hole through the board in short order.”
+Sentence 222: Sounds like they covered that base.
+Sentence 223: Still, interesting, as it’s blue light… ought not to be so hot as redder colors.
+Sentence 224: They couldn’t use UV, as mercury phosphlorescents use/d?
+Lenses in front of many halogens ruin the precise delivery, making dispersion far too diffused.
+Sentence 225: FWIW, Remember old geezers don’t.do night recon as we need 50% more light, and the demographics are aging.
+Sentence 226: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:37 am						
+
+
+
+
+Why should one use UV when intense blue light is available?
+Sentence 227: UV has higher quantum energy than blue, which has to be dropped by the fluorescent phosphor to different VIS wavelengths.
+Sentence 228: So blue can be more efficient than UV  at the stage of the phosphor.
+Sentence 229: Not to mention: blue LEDs are very efficient, UV LEDS are not.
+Sentence 230: Report comment 
+Reply 
+
+
+
+
+
+
+
+Daniel Dunn says: 
+
+
+
+							March 22, 2021 at 8:39 am						
+
+
+
+
+Lol manufacturers must think that people are going to use them safely and appropriately
+
+
+Report comment 
+Reply 
+
+
+
+
+
+jenningsthecat says: 
+
+
+
+							March 25, 2021 at 5:38 pm						
+
+
+
+
+You really think that manufacturers _care_ whether or not people use them safely and appropriately?
+Sentence 231: Where can I get a pair of those rose-coloured glasses you’re wearing?
+Sentence 232: Heck, they might even help with those blinding headlights that increasingly make night-time driving a crapshoot!
+Sentence 233: Report comment 
+Reply 
+
+
+
+
+
+
+
+Antti says: 
+
+
+
+							March 22, 2021 at 11:12 am						
+
+
+
+
+I am very pleased that this is a real problem and not only in my mind.
+Sentence 234: I have been cussing the led lights the past  10 years with the last 4 years really being a living hell driving in the dark during rush hours.
+Sentence 235: My solution was to tone those car windows that the law permits over here and additonally gluing plastic toning films on the side windows so the films occultate the side mirrors when driving.
+Sentence 236: An imperfect solution but in a pinch i can slide down the side windows and have normal mirror brightness when reversing in those dark winter months.
+Sentence 237: The led low beams are a bigger issue for me since I am constantly exposed to vans, big ass volvo, audi and bmw cars that just have to drive right up to my tailpipe before overtaking.
+Sentence 238: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:39 am						
+
+
+
+
+My interior rear view mirror is self-darkening, that’s quite nice.
+Sentence 239: The side morrors unfortunately not, that would have been much more expensive – different class of “extras”.
+Sentence 240: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Dr. Evil says: 
+
+
+
+							March 22, 2021 at 8:12 am						
+
+
+
+
+So where’s the shark – Is it too much to ask?
+Sentence 241: Report comment 
+Reply 
+
+
+
+
+
+Ren says: 
+
+
+
+							March 23, 2021 at 12:42 pm						
+
+
+
+
+Those sharks have evolved cloaking ability.
+Sentence 242: Nothing to worry about though, unless they get caught up in a tornado (waterspout) and rain down on your locality.
+Sentence 243: Report comment 
+Reply 
+
+
+
+
+
+
+
+Gary says: 
+
+
+
+							March 22, 2021 at 8:13 am						
+
+
+
+
+I’m thinking it would be much easier to just go back to the simple replaceable round incandescent bulbs
+Sentence 244: Report comment 
+Reply 
+
+
+
+
+
+Ken Boak says: 
+
+
+
+							March 22, 2021 at 8:20 am						
+
+
+
+
+Halleleujah…….
+Sentence 245: Report comment 
+Reply 
+
+
+
+
+
+Ken Boak says: 
+
+
+
+							March 22, 2021 at 8:37 am						
+
+
+
+
+Plug in replacements, providing a similar package and direct equivalent light output using lower power, and longer life LEDs, with a colour temperature similar to that of the original tungsten filaments.
+Sentence 246: Many low power auto bulbs already have LED equivalents, and there are some H4 and H7 plug in headlamp LED units – but most require additional heatsinks.
+Sentence 247: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:42 am						
+
+
+
+
+No, I would not like that shitty low CT.
+Sentence 248: When Xenon HID came up, that had really nice high CT, 6000K or something.
+Sentence 249: When I bought my car, I ordered Xenon light, but when I got it, I was a little disappointed, that it did not look daylight white, more like 4000K.
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Mike says: 
+
+
+
+							March 23, 2021 at 8:01 am						
+
+
+
+
+20 posts from this guy in 5 min and this one tells me he doesn’t know what he’s talking about.
+Sentence 250: The higher cct is very much part of the problem.
+Sentence 251: Read up on light and the human eye
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Antti says: 
+
+
+
+							March 22, 2021 at 11:12 am						
+
+
+
+
+Amen
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:39 am						
+
+
+
+
+But who wants that?
+Sentence 252: Me not, I like my Xenon / HID lights.
+Sentence 253: Report comment 
+Reply 
+
+
+
+
+
+
+
+Brian says: 
+
+
+
+							March 22, 2021 at 8:42 am						
+
+
+
+
+Many comments about the ‘excessive’ emissions of LED lamps.
+Sentence 254: The NHTSA is looking into updating FMVSS
+Sentence 255: No. 108 via a request to lawmakers (congressional cretins) to update 49USC301.
+Sentence 256: And these administrative and statue codes are what used last year in a tort.
+Sentence 257: And it would appear that the complainants are about to own the defendant’s truck, mostly because the defendant’s insurance company abandoned him due to non-compliant vehicle accessories.
+Sentence 258: But short of legal heroics via the civil courts, we need to encourage our respective national automotive engineering and law enforcement agencies to act on this increasing scourge of emissions that are nothing short of an assault via photons.
+Sentence 259: Report comment 
+Reply 
+
+
+
+
+
+jack324 says: 
+
+
+
+							March 22, 2021 at 8:58 am						
+
+
+
+
+I love how a bunch of people are turning this into “but the glare!
+Sentence 260: How will I see at night!”.
+Sentence 261: These are high beams folks, you know, the ones you shut off when you have any cars in front of you?
+Sentence 262: You would still use an led bulbs for low beams with all that diffusion you seem to be after built in.
+Sentence 263: Report comment 
+Reply 
+
+
+
+
+
+Foldi-One says: 
+
+
+
+							March 22, 2021 at 9:49 am						
+
+
+
+
+I think you are putting far to much faith in the other drivers…
+Sentence 264: Heck how many drivers even realise there are multiple lighting levels on their car for fog as well!
+Sentence 265: Almost all the cars I’ve ever seen with foglights on when they should be are the ones that either turn them automatically or just have the running lights always on now…
+Also if they are bright enough to let you from the reflected light see half a Km or more, they are going to be dazzling to the poor sap in the oncoming lane probably out to two Km or so, where you won’t be able to see them with their sane ‘normal’  stupidly bright modern headlight levels of lighting, as your eyes are so swamped by the brighter still local lighting…
+
+
+Report comment 
+Reply 
+
+
+
+
+
+rpavlik says: 
+
+
+
+							March 22, 2021 at 10:18 am						
+
+
+
+
+Not to discount the concern, since misuse or lack of maintenance is a definite concern, but as a reference point, a 2018 Subaru with LED steering-responsive headlights (that also aim lower when they detect the car is heavily loaded in the rear) has high beams that automatically dim when another car is seen.
+Sentence 266: Not sure if you can turn off this feature, I’ve never wanted to.
+Sentence 267: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 22, 2021 at 10:50 am						
+
+
+
+
+At some point the LED steering will start to malfunction and either fail to dim down, or point in random directions where it shouldn’t, and this will either be a very expensive fix, or you bodge it so it points in a fixed direction to get through the MOT test.
+Sentence 268: Report comment 
+Reply 
+
+
+
+
+
+David says: 
+
+
+
+							March 22, 2021 at 1:18 pm						
+
+
+
+
+Actually testing lights and cars should be mandatory everywhere.
+Sentence 269: Here in Ontario they got rid of that.
+Sentence 270: I’m happily driving with two torn cv gaiters which I’d have to fix within a year in the UK.
+Sentence 271: Report comment 
+
+
+
+
+
+
+
+
+a Jaded Hobo says: 
+
+
+
+							March 22, 2021 at 11:10 am						
+
+
+
+
+Other vehicles share the road besides cars.
+Sentence 272: And they don’t have the power plant to generate the amount of light even a moderate car pours out on the road.
+Sentence 273: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Dude says: 
+
+
+
+							March 22, 2021 at 10:48 am						
+
+
+
+
+The rule of thumb is that you should switch to low beams when the road ahead is illuminated by the other vehicle’s beams.
+Sentence 274: Well, if two cars have 600 m beams, they have to both switch to low beams while they’re still a kilometer away from each other, and take a minute to actually pass.
+Sentence 275: Report comment 
+Reply 
+
+
+
+
+
+Phillip says: 
+
+
+
+							March 22, 2021 at 11:53 am						
+
+
+
+
+Actually, if both vehicles were travelling at ~60MPH, that would be ~11.185 seconds.
+Sentence 276: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 11:04 am						
+
+
+
+
+Nope.
+Sentence 277: 1000 m / 26.7 m/s =  18.7 s
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+three_d_dave says: 
+
+
+
+							March 23, 2021 at 3:00 pm						
+
+
+
+
+Today they are for high beams.
+Sentence 278: Then it will be for “safety” that it is transitioned to low beams.
+Sentence 279: Recall that the SAE standards for low-beams assumed that the maximum illumination would be in the central area aligned with the filament, with fall-off to the edges to avoid a sharp transition, and then lamp makers used optics to drive the maximum allowable illumination to 100% of the field with no gradual drop-off, creating that blinding flash transition so popular today.
+Sentence 280: Of course they also did that test with the mandated 12V supply even though autos run theirs at 14-15V, for a gain of around 20-40% in brightness over the test condition.
+Sentence 281: At least with LEDs that lie no longer works, but the elimination of gradual falloff more than makes up.
+Sentence 282: And, the original lamps had a spectrum with little blue in it; now that component that destroys night vision, is a large component.
+Sentence 283: Report comment 
+Reply 
+
+
+
+
+
+
+
+Alice says: 
+
+
+
+							March 22, 2021 at 9:23 am						
+
+
+
+
+Since when efficiency is a problem?
+Sentence 284: When old lighting circuit takes up more than 100W.
+Not to mention you have to move 2tonnes of steel just to carry 80kilos.
+Sentence 285: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 22, 2021 at 10:55 am						
+
+
+
+
+90% of the energy consumption is fighting air drag, not the mass of the vehicle.
+Sentence 286: Report comment 
+Reply 
+
+
+
+
+
+AKA the A says: 
+
+
+
+							March 22, 2021 at 2:39 pm						
+
+
+
+
+*unless you’re going up a hill or in start/stop traffic
+
+
+Report comment 
+Reply 
+
+
+
+
+
+mac012345 says: 
+
+
+
+							March 23, 2021 at 3:32 am						
+
+
+
+
+I get way better hill/mountain mpg than in semi-urban environment and sometimes better than highway.
+Sentence 287: The reason is that what goes up must comes down and mean speed is in the sweet spot.
+Sentence 288: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 11:05 am						
+
+
+
+
+What goes up a hill, comes down a hill.
+Sentence 289: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 11:16 am						
+
+
+
+
+Seriously though.
+Sentence 290: Air resistance starts to dominate over rolling resistance around 20 mph and up.
+Sentence 291: In stop/go traffic, you’re never going very fast.
+Sentence 292: Each acceleration to 25 mph in a two-tonne car takes about 120 kJ of energy, which is worth 6 seconds of driving on the highway at 20 kW (27 HP) average power.
+Sentence 293: Most of the fuel consumption is due to idle loss, which consumes about 1-2 kW to keep the belts turning while you’re waiting at the red lights.
+Sentence 294: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Lewin Day says: 
+
+
+
+							March 23, 2021 at 7:19 pm						
+
+
+
+
+Greater efficiency means less power turned into heat.
+Sentence 295: This means you can have brighter light in a more compact package without worrying about everything melting.
+Sentence 296: Report comment 
+Reply 
+
+
+
+
+
+Ben says: 
+
+
+
+							March 26, 2021 at 3:11 pm						
+
+
+
+
+These are on an i8.
+Sentence 297: Definitely not 2t.
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+Mike says: 
+
+
+
+							March 22, 2021 at 9:49 am						
+
+
+
+
+https://www.change.org/p/u-s-dot-ban-blinding-headlights-and-save-lives
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Mike says: 
+
+
+
+							March 22, 2021 at 12:18 pm						
+
+
+
+
+This post took a few hours to get ok’d.
+Sentence 298: Bumping to make sure people see it.
+Sentence 299: Please sign.
+Sentence 300: I’m not affiliated with them but believe in the effort.
+Sentence 301: Report comment 
+Reply 
+
+
+
+
+
+Nick says: 
+
+
+
+							March 24, 2021 at 11:10 pm						
+
+
+
+
+Mike, I think the spam filter is more restrictive if you post just a link, with no text to explain it.
+Sentence 302: Also it’s better online etiquette to write a sentence or two to explain your link.
+Sentence 303: For what it’s worth, I also hate selfish jerks with dazzling lights.
+Sentence 304: Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Tomaz Z. says: 
+
+
+
+							March 22, 2021 at 10:45 am						
+
+
+
+
+All this rubbish makes me glad I am not a driver.
+Sentence 305: Report comment 
+Reply 
+
+
+
+
+
+Ostracus says: 
+
+
+
+							March 22, 2021 at 12:22 pm						
+
+
+
+
+Reminds me of that Jetson cartoon where a bird say it’s safer to walk.
+Sentence 306: https://www.metv.com/stories/heres-whats-on-the-ground-in-the-jetsons
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Laurens says: 
+
+
+
+							March 22, 2021 at 1:06 pm						
+
+
+
+
+Cyclists suffer from this stuff too.
+Sentence 307: Many cyclists here don’t adjust their nowadays very bright LED headlights properly, They should point down at the road, but if you have a 1w LED pointing straight ahead, it can be super annoying.
+Sentence 308: Whenever i see someone like that, i purposefully point my bicycle light upwards towards their face.
+Sentence 309: Report comment 
+Reply 
+
+
+
+
+
+Foldi-One says: 
+
+
+
+							March 22, 2021 at 5:39 pm						
+
+
+
+
+I think that kind of depends on the cars and driver behaviour round your way… If they are as out to kill you as the cars round here, with the same headlight intensity and manners as many drivers show me as a cyclist you might well both want and need a brighter bike light to make up for being so dazzled all the time your eyes are in full noonday sun daylight mode….
+Sentence 310: Always kept 2 lights on my bike for “night” riding, the usual pretty dull “please don’t crash into me” light, bright enough to ride by but doesn’t throw a great distance, and the rather potent one to toggle on every time you end up blinded by the stupendously bright full beams of some arse at a really bad time, or somebody isn’t paying attention and fails to spot the rather large man, in reflective clothing, with lights… and so needs that extra kick to actually stick to their bloody side of the road – amazing how if you suddenly look bright and dazzling enough to be a car or motorbike they care… Much as I enjoyed the cycling part I really don’t miss commuting that way at all…
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Davide Repetto says: 
+
+
+
+							March 22, 2021 at 10:48 am						
+
+
+
+
+“A hard brake at 70 kph will take ~15 second to come to a stop”
+There must be an error there.
+Sentence 311: An hard brake at 70kph will stop any car much sooner.
+Sentence 312: Not even at 70mph… Maybe on ice.
+Sentence 313: Report comment 
+Reply 
+
+
+
+
+
+Pat says: 
+
+
+
+							March 22, 2021 at 11:37 am						
+
+
+
+
+Yeah, there were messed up units there.
+Sentence 314: I was thinking 70 mph under sane worst-case conditions (wet roads), which would be around ~200 m.
+Sentence 315: The *time* was totally screwed up (forgot the half), but the distance was the point (that’s a good fraction of how far these illuminate).
+Sentence 316: Report comment 
+Reply 
+
+
+
+
+
+Nutjob1 says: 
+
+
+
+							March 26, 2021 at 12:02 pm						
+
+
+
+
+70kph is 43.5 mph.
+Sentence 317: The average response time to braking is around 0.75 sec.
+Sentence 318: All braking stats are related to stock tires on dry surfaces.
+Sentence 319: At 45 mph, an emergency stop wouldn’t exceed 100 feet/30 meters (dry surface).
+Sentence 320: Anyone needing 600 meters of vehicle lighting is either driving at very high speed (Autobahn?) or reckless on USA roads.
+Sentence 321: 600 meters is 1968.5 feet,  well over 1/4 mile.
+Sentence 322: My guess is anyone speeding may need high beams on isolated roads otherwise the majority of USA roads are limited between 55-65 mph.
+Sentence 323: Low beams are effective to 200 feet/61 meters.
+Sentence 324: Report comment 
+Reply 
+
+
+
+
+
+
+
+Steve L says: 
+
+
+
+							March 22, 2021 at 11:02 am						
+
+
+
+
+1980:
+Sentence 325: Busted headlight = $5.00, you replaced it yourself in 20 minutes with a Philips after picking up one from the grocery store
+2024: Busted headlight = $4,000.00 with a week delivery time, a team of technicians replaces it for another $1000 using $20,000 of equipment in order to install and adjust it properly
+This is progress?
+Sentence 326: Is it really going to be 1000x better?
+Sentence 327: Report comment 
+Reply 
+
+
+
+
+
+some guy says: 
+
+
+
+							March 22, 2021 at 11:57 am						
+
+
+
+
+This, so much this.
+Sentence 328: Also though i really like Hacking and (Reverse) Engineering
+Sentence 329: i am worried about people using these headlights to make stupid things.
+Sentence 330: Now they are new and expensive, but eventually used units will hit Ebay and so on.
+Sentence 331: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 11:22 am						
+
+
+
+
+You can still buy a Dacia, which is 80’s technology made in the 2020’s – as long as they don’t ban them.
+Sentence 332: Report comment 
+Reply 
+
+
+
+
+
+
+
+Maave says: 
+
+
+
+							March 23, 2021 at 6:11 am						
+
+
+
+
+It’s a BMW luxury car, the entire thing is that complicated
+
+
+Report comment 
+Reply 
+
+
+
+
+
+three_d_dave says: 
+
+
+
+							March 23, 2021 at 3:03 pm
+Sentence 333: It is if you are a car maker.
+Sentence 334: Selling a new car to replace one that is totaled because a replacement lamp is no longer available is the goal.
+Sentence 335: Report comment 
+Reply 
+
+
+
+
+
+
+
+rnjacobs says: 
+
+
+
+							March 22, 2021 at 11:05 am						
+
+
+
+
+Hold on, white LEDs are already pushing 75% efficiency (watts photons visible light out ÷ watts electrons in).
+Sentence 336: How is the laser + phosphor better than that?
+Sentence 337: Report comment 
+Reply 
+
+
+
+
+
+Antti says: 
+
+
+
+							March 22, 2021 at 11:20 am						
+
+
+
+
+It might be about the light density.
+Sentence 338: You cant get small enough led arrays that will survive the temperature range a car subjects them to.
+Sentence 339: The BMW laser high beam light dot is 1/3 the size of the low beam led array yet shines with at least the same total brightness as the low light array.
+Sentence 340: It is a very elegant solution, but, considering the lenses, servos and electronics involved i doubt it is long lived, at least for the low beam.
+Sentence 341: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 23, 2021 at 11:25 am						
+
+
+
+
+No they’re not.
+Sentence 342: The maximum theoretical efficiency limit of a white LED is 38.1–43.9%
+
+
+Report comment 
+Reply 
+
+
+
+
+
+rnjacobs says: 
+
+
+
+							March 26, 2021 at 6:56 pm						
+
+
+
+
+You had this same misconception last time we talked about light efficiency, and you’re still wrong.
+Sentence 343: That 44% figure is efficacy, not efficiency.
+Sentence 344: That means it is relative to an single-color 550nm (yellow-green) light source and you wouldn’t want to light a room with that anyway.
+Sentence 345: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 27, 2021 at 5:52 am						
+
+
+
+
+No.
+Sentence 346: You got it exactly wrong the last time.
+Sentence 347: Efficacy refers to the number of lumens per Watt of the radiation, and luminous efficiency refers to the perceived brightness relative to 555 nm light.
+Sentence 348: Then there is the overall luminous efficacy and efficiency of the source:
+https://en.wikipedia.org/wiki/Luminous_efficacy#Lighting_efficiency
+“The main difference between the luminous efficacy of radiation and the luminous efficacy of a source is that the latter accounts for input energy that is lost as heat or otherwise”
+“The following table lists luminous efficacy of a source and efficiency for various light sources”
+“Theoretical limit for a white LED with phosphorescence color mixing 260–300 lm/W 38.1–43.9%” 
+This IS counting “watts photons visible light out  ÷
+Sentence 349: watts electrons in”.
+Sentence 350: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 27, 2021 at 6:05 am						
+
+
+
+
+Of course here as well, the ideal 555 nm source is by definition 100% efficient.
+Sentence 351: It converts energy perfectly to photons and produces light that is perceived the brightest.
+Sentence 352: A “perfect white” source with no source losses and a color temperature of 5800 K, basically a black body spectrum truncated to the perceivable colors, would have an overall luminous efficiency of 37%.
+Sentence 353: This improves as you make the spectrum narrower.
+Sentence 354: Likewise, LED lights are able to overcome this only by compromising on the light quality with a CRI less than 100.
+Sentence 355: If you have a white LED with a claimed luminous efficiency of 75%, I have some news for you: either they’re lying, or it’s nowhere near white.
+Sentence 356: Report comment 
+
+
+
+
+
+
+Dude says: 
+
+
+
+							March 27, 2021 at 6:17 am						
+
+
+
+
+Or to make it absolutely clear: 
+An ideal white LED with 100% source efficiency from electricity to radiation is 38.1–43.9% efficient in terms of visible light.
+Sentence 357: All real world LEDs are much worse than this^, with typical source efficiencies in the 20-30% range, which drops the practical luminous efficiency down from the theoretical max 300 lm/W to around 75-100 lm/W and the overall luminous efficiency becomes 10-15%
+^(due to: heat effects, ballast losses, light losses in the LED casing, reflector and diffuser losses…)
+
+
+Report comment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phil says: 
+
+
+
+							March 22, 2021 at 11:41 am						
+
+
+
+
+Think it’s warranted to worry these will make seeing at night worse, moving from dull incandescents to bright white led headlights I noticed that although I can see the few feet Infront of me better (aka the it’s too late zone)
+Sentence 358: the road beyond it is now a total mystery.
+Sentence 359: Report comment 
+Reply 
+
+
+
+
+
+DC says: 
+
+
+
+							March 22, 2021 at 7:02 pm						
+
+
+
+
+I completely agree.
+Sentence 360: See my later comment of my “upgrade” to fancier lights that I soon switched back to the oldschool lights.
+Sentence 361: Brighter, yes.
+Sentence 362: More effective at the end objective of being able to see better, no.
+Sentence 363: Report comment 
+Reply 
+
+
+
+
+
+
+
+snarkysparky says: 
+
+
+
+							March 22, 2021 at 12:21 pm						
+
+
+
+
+I got an idea for a new feature.
+Sentence 364: How about a damn reliable, simple, well built car that I can buy for 15k dollars.
+Sentence 365: Like my 2004 Rav.
+Sentence 366: Less is more !!
+Sentence 367: Report comment 
+Reply 
+
+
+
+
+
+Dude says: 
+
+
+
+							March 24, 2021 at 8:39 am						
+
+
+
+
+The trouble is the regulations for safety and fuel economy, and emissions, which have gotten so strict that you can’t manufacture very cheap cars any longer.
+Sentence 368: For example, the upcoming 2022 EU regulations mandate that all new cars have Automated Emergency Braking which can detect pedestrians and cyclists, Intelligent Speed Assistance which stops you from speeding by lifting the throttle and blaring alarms in your ear if you override it for too long, and a black box that records the last few seconds up to a crash.
+Sentence 369: Report comment 
+Reply 
+
+
+
+
+
+
+
+BotherSaidPooh says: 
+
+
+
+							March 22, 2021 at 12:47 pm						
+
+
+
+
+Wonders if adding a selectable filter to stop blue laser light might make it somewhat more useful.
+Sentence 370: Also using more than one emitter material ie warm and cool white, but that would be overcomplicated.
+Sentence 371: I did come up with a variant using RGB LDs with a PS3 beam combiner and it should work but am lacking
+a spare working >
+Sentence 372: 15mW blue PL450 LD the same as the unit here.
+Sentence 373: Plan is to have a beam scanner
+Sentence 374: so each side scans half the road with an eye-safe divergent beam,
+doubling as an indicator and other functions.
+Sentence 375: User configured brightness depending on ambient light level and selective blanking so it turns off/dims
+when scanning a large approaching object with its own light source(s).
+Sentence 376: Report comment 
+Reply 
+
+
+
+
+
+DC says: 
+
+
+
+							March 22, 2021 at 6:57 pm						
+
+
+
+
+A friend of mine who did rally car racing with his subaru once told me that you shouldnt mix the color temperatures of your lights too much, with the exception of yellow fog lights being effective for snow situations.
+Sentence 377: The convo came up because he was replacing his headlight bulbs to match the color temperature of his new lightbar.
+Sentence 378: I don’t remember his explanation of why it was important to try to match color temperatures, but it made sense at the time.
+Sentence 379: Being able to change color temperatures on the fly sounds like a great idea though, and relatively easy to implement – there are definitely situations where warm white is advantageous (bad weather driving, seeing detail of snow covered roads) and other situations where cool white offers more performance (lets your eyes see further assuming clear skies.
+Sentence 380: Ive also heard the really high color temperatures can reduce eye fatigue).
+Sentence 381: Report comment 
+Reply 
+
+
+
+
+
+
+
+RW ver 0.0.3 says: 
+
+
+
+							March 22, 2021 at 2:00 pm						
+
+
+
+
+By the way fellow old geezers (anyone over 40 really) not that there isn’t merit in the complaints about overly bright or misaligned headlights, but there’s a way to “hack your eyes” now, in case you missed this…
+https://www.sciencedaily.com/releases/2020/06/200629120241.htm
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Nick says: 
+
+
+
+							March 25, 2021 at 1:28 am						
+
+
+
+
+Interedting, but that is  a very, very small study.
+Sentence 382: Report comment 
+Reply 
+
+
+
+
+
+
+
+Stevo Bambino says: 
+
+
+
+							March 22, 2021 at 4:58 pm						
+
+
+
+
+Instead of a laser and its inherent risk, use an electron beam to excite the phosphor.
+Sentence 383: All you need is an electron gun and an electromagnetic focusing ring and some high voltage to attract the electrons and put it in a vacuum and use some lenses to project the light.
+Sentence 384: Very old tech made new and much safer than lasers.
+Sentence 385: Report comment 
+Reply 
+
+
+
+
+
+Ostracus says: 
+
+
+
+							March 22, 2021 at 5:49 pm						
+
+
+
+
+Cars with TV eyes.
+Sentence 386: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:51 am						
+
+
+
+
+Vacuum, heated cathodes, high voltage – are there more ways to bring efficiency down?
+Sentence 387: I don’t think so.
+Sentence 388: Ah yes, I forgot the extra power for the electromagnet for focusing.
+Sentence 389: We want light, not waste heat!
+Sentence 390: Report comment 
+Reply 
+
+
+
+
+
+
+
+John Q. Public says: 
+
+
+
+							March 22, 2021 at 5:47 pm						
+
+
+
+
+A comment if I may, I am visually impaired, considered legally blind and even
+regular headlights hurt.
+Sentence 391: I don’t drive but as a passenger, someimes it seems like
+I’m looking at the sun when headlights hit my eyes.
+Sentence 392: Couple this with a recent
+retina detachment (fixed) and a cataract (yet to be fixed), and these bright
+lights are just torture.
+Sentence 393: I will say that bicycle lighting has improved since
+the days of the little dynamo powered flashlight bulb that was meant for
+drivers to see you instead of you lighting up the road in front of you.
+Sentence 394: https://youtu.be/9MAkl8tEsnA
+How about low power bulbs coupled with a winshield that amplifies the ambient light
+while blocking direct light?
+Sentence 395: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:53 am						
+
+
+
+
+Think about optics: A windshield that works as light amplifier is no solution, it would only blind you with glare.
+Sentence 396: You would need an image intensifier, like a night vision device.
+Sentence 397: And that is not possible as a windshield.
+Sentence 398: Report comment 
+Reply 
+
+
+
+
+
+
+
+DC says: 
+
+
+
+							March 22, 2021 at 6:31 pm						
+
+
+
+
+I “upgraded” my SUVs headlights from halogen bulbs with reflector housing to LED projectors (the mid-generation refresh of my car included projector headlights and LED tail lights, so my “upgrade” was OEM.
+Sentence 399: I absolutely hated the cut-off line and switched back to good old reflector housings.
+Sentence 400: Because my SUV is tall to begin with and lifted 2″, I had to angle the beam path down to not blind cars when I pulled up behind them at a red light.
+Sentence 401: This killed the my down road range, making everything close to me brightly illuminated but the stuff down the road that I needed to see was completely black.
+Sentence 402: I dont see why everyone is so fascinated with focusing light in such a way that results in sharp cut-off regions.
+Sentence 403: I see it with flashlights and headlamps too.
+Sentence 404: Turn the intensity down and stick with a more natural distribution of the light!
+Sentence 405: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:55 am						
+
+
+
+
+Normally you should adjust low beam lights for a 40m range.
+Sentence 406: Even if your car is 5cm higher, that would only be a tiny difference in angle and the range has to stay the same.
+Sentence 407: Report comment 
+Reply 
+
+
+
+
+
+Nutjob1 says: 
+
+
+
+							March 26, 2021 at 12:14 pm						
+
+
+
+
+No one forced you to lift your suv that resulted in blinding the driver in front of you at stops.
+Sentence 408: You have no one to blame for lowering your new hid lights so you wouldn’t blind the driver at stops.
+Sentence 409: While well intentioned and being courteous, the lift may be more harm than good.
+Sentence 410: As you may or may not know,  hid projector headlights are designed with a cutoff plate inside to cut off the upper beam in a low beam projector otherwise it becomes a high beam to blind everyone.
+Sentence 411: You don’t have to believe me.
+Sentence 412: Do your research on hid projector lighting.
+Sentence 413: Some euro vehicles have this cutoff plate on a solenoid, effectively allowing the low beam to become a high beam when the cutoff plate is moved out of the way.
+Sentence 414: Report comment 
+Reply 
+
+
+
+
+
+
+
+DC says: 
+
+
+
+							March 22, 2021 at 6:35 pm						
+
+
+
+
+The illustration reminds me of the looks an ex of mine would give me when she felt I was being too flirty with her friends…
+
+
+Report comment 
+Reply 
+
+
+
+
+
+Dave says: 
+
+
+
+							March 23, 2021 at 1:27 am						
+
+
+
+
+…just do what I do.
+Sentence 415: Drive in the day time.
+Sentence 416: Report comment 
+Reply 
+
+
+
+
+
+CRJEEA says: 
+
+
+
+							March 23, 2021 at 2:13 am						
+
+
+
+
+More likely that people here will do what I will do, take the lasers out and make them into something new, mini laser cutter perhaps?
+Sentence 417: 10W is certainly enough to cut plastic film and engrave wood.
+Sentence 418: No doubt, if they become popular, companies will make more powerful laser headlights as time goes on.
+Sentence 419: Perhaps we could take the phosphore and paint it onto a screen, add some galvanometers and turn it into a laser display.
+Sentence 420: With new technology, comes new hacks.
+Sentence 421: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 7:56 am						
+
+
+
+
+Probably one of the most expensive ways to get lasers to play with…
+
+
+Report comment 
+Reply 
+
+
+
+
+
+
+
+
+
+Menno says: 
+
+
+
+							March 23, 2021 at 4:21 am						
+
+
+
+
+@abjq:
+Sentence 422: “My car does 60-0 (warm tyres and dry road) in about 10m.”
+No it doesn’t.
+Sentence 423: Your airbags would deploy at that many G’s.
+Sentence 424: Report comment 
+Reply 
+
+
+
+
+
+Martin says: 
+
+
+
+							March 23, 2021 at 8:00 am						
+
+
+
+
+From 60km/h down to 0 is about 1,4G deceleration.
+Sentence 425: Quite extreme, but nothing for the airbags to deploy.
+Sentence 426: Report comment 
+Reply 
+
+
+
+
+
+
+
+Osgeld says: 
+
+
+
+							March 23, 2021 at 5:20 am						
+
+
+
+
+50c lol try 105c thats what pretty much everyone in automotive validates to on headlights
+… Cause they sit in an engine bay
+
+
+Report comment 
+Reply 
+
+
+
+
+
+rudy says: 
+
+
+
+							March 23, 2021 at 2:25 pm						
+
+
+
+
+Sealed beam halogen are far superior to HID+projectors.
+Sentence 427: I’d argue projectors shouldn’t be street legal at all.
+Sentence 428: Report comment 
+Reply 
+
+
+
+
+
+Matt Brunton says: 
+
+
+
+							March 26, 2021 at 9:42 am						
+
+
+
+
+I’ve often wondered whether polarisation would prevent a lot of these problems.
+Sentence 429: e.g. make windshields vertically polarised for light  (like Polaroid sunglasses) and then make headlights horizontally polarised.
+Sentence 430: Report comment 
+Reply 
+
+
+
+Leave a Reply					Cancel reply
+
+
+
+
+
+
+
+
+
+
+Please be kind and respectful to help make the comments section excellent.
+Sentence 431: (Comment Policy)This site uses Akismet to reduce spam.
+Sentence 432: Learn how your comment data is processed.
+Sentence 433: Search
+
+Search for:
+
+
+
+Never miss a hack
+Follow on facebook
+Follow on twitter
+Follow on youtube
+Follow on rss
+Contact us
+Subscribe
+
+
+
+
+
+
+
+
+
+
+If you missed it
+
+
+
+
+
+
+
+Bare-Metal STM32: Please Mind The Interrupt Event
+
+
+ 14 Comments				
+
+
+
+
+
+
+
+
+How Fast Is The Universe Expanding?
+Sentence 434: The Riddle Of Two Values For The Hubble Constant
+
+
+ 21 Comments				
+
+
+
+
+
+
+
+
+How The LIGO Observatory Detects Gravitational Waves
+
+
+ 40 Comments
+Sentence 435: Hey Google, Is My Heart Still Beating?
+
+
+ 17 Comments				
+
+
+
+
+
+
+
+
+How Laser Headlights Work
+
+
+ 130 Comments				
+
+
+
+More from this category
+
+
+
+
+
+Our Columns
+
+
+
+
+
+
+
+Putting Your Time
+Sentence 436: In
+
+
+ 5 Comments				
+
+
+
+
+
+
+
+
+Hackaday Podcast 111:
+Sentence 437: 3D Graphics Are Ultrasonic, Lobotomizing Alexa, 3D-Printing Leaky Rockets, And Gaming The Font System
+
+
+ 1 Comment				
+
+
+
+
+
+
+
+
+This Week
+Sentence 438: In Security: XcodeSpy, Insecure SMS, And Partial Redactions
+
+
+ 20 Comments				
+
+
+
+
+
+
+
+
+The $50 Ham: WSPR-ing Around The World
+
+
+ 13 Comments				
+
+
+
+
+
+
+
+
+Ask Hackaday: How Do You Prepare?
+Sentence 439: 124 Comments				
+
+
+
+More from this category
+
+
+
+
+
+Search
+
+Search for:
+
+
+
+Never miss a hack
+Follow on facebook
+Follow on twitter
+Follow on youtube
+Follow on rss
+Contact us
+Subscribe
+
+
+
+
+
+
+
+
+
+
+If you missed it
+
+
+
+
+
+
+
+Bare-Metal STM32: Please Mind The Interrupt Event
+
+
+ 14 Comments				
+
+
+
+
+
+
+
+
+How Fast Is The Universe Expanding?
+Sentence 440: The Riddle Of Two Values For The Hubble Constant
+
+
+ 21 Comments				
+
+
+
+
+
+
+
+
+How The LIGO Observatory Detects Gravitational Waves
+
+
+ 40 Comments
+Sentence 441: Hey Google, Is My Heart Still Beating?
+
+
+ 17 Comments				
+
+
+
+
+
+
+
+
+How Laser Headlights Work
+
+
+ 130 Comments				
+
+
+
+More from this category
+CategoriesCategories
+Select Category
+3d Printer hacks
+Android Hacks
+Arduino Hacks
+ARM
+Art
+Ask Hackaday
+ATtiny Hacks
+Beer Hacks
+Biography
+blackberry hacks
+Business
+car hacks
+Cellphone Hacks
+chemistry hacks
+classic hacks
+clock hacks
+cnc hacks
+computer hacks
+cons
+contests
+cooking hacks
+Crowd Funding
+Curated
+Current Events
+digital audio hacks
+digital cameras hacks
+downloads hacks
+drone hacks
+Engine Hacks
+Engineering
+Fail of the Week
+Featured
+Fiction
+firefox hacks
+FPGA
+g1 hacks
+Games
+google hacks
+gps hacks
+green hacks
+Hackaday Columns
+Hackaday links
+Hackaday Store
+Hackerspaces
+HackIt
+handhelds hacks
+hardware
+History
+Holiday Hacks
+home entertainment hacks
+home hacks
+how-to
+Interest
+internet hacks
+Interviews
+iphone hacks
+ipod hacks
+Kindle hacks
+Kinect hacks
+laptops hacks
+Laser Hacks
+LED Hacks
+Lifehacks
+Linux Hacks
+lockpicking hacks
+Mac Hacks
+Machine Learning
+Major Tom
+Medical Hacks
+Microcontrollers
+Misc Hacks
+Multitouch Hacks
+Musical Hacks
+Netbook Hacks
+Network Hacks
+News
+Nintendo DS Hacks
+Nintendo Game Boy Hacks
+Nintendo Hacks
+Nintendo Wii Hacks
+Nook Hacks
+Original Art
+Palm Pre Hacks
+Parts
+Peripherals Hacks
+Phone Hacks
+Playstation Hacks
+Podcasts
+Portable Audio Hacks
+Portable Video Hacks
+PSP Hacks
+Radio Hacks
+Rants
+Raspberry Pi
+Repair Hacks
+Retrocomputing
+Retrotechtacular
+Reviews
+Robots Hacks
+Roundup
+Science
+Security Hacks
+Skills
+Slider
+Software Development
+Software Hacks
+Solar Hacks
+Space
+Tablet Hacks
+Teardown
+Tech Hacks
+The Hackaday Prize
+Tool Hacks
+Toy Hacks
+Transportation Hacks
+Uncategorized
+Video Hacks
+Virtual Reality
+Weapons Hacks
+Wearable Hacks
+Weekly Roundup
+Wireless Hacks
+Xbox Hacks
+
+
+
+Our Columns
+
+
+
+
+
+
+
+Putting Your Time
+Sentence 442: In
+
+
+ 5 Comments				
+
+
+
+
+
+
+
+
+Hackaday Podcast 111:
+Sentence 443: 3D Graphics Are Ultrasonic, Lobotomizing Alexa, 3D-Printing Leaky Rockets, And Gaming The Font System
+
+
+ 1 Comment				
+
+
+
+
+
+
+
+
+This Week
+Sentence 444: In Security: XcodeSpy, Insecure SMS, And Partial Redactions
+
+
+ 20 Comments				
+
+
+
+
+
+
+
+
+The $50 Ham: WSPR-ing Around The World
+
+
+ 13 Comments				
+
+
+
+
+
+
+
+
+Ask Hackaday: How Do You Prepare?
+Sentence 445: 124 Comments				
+
+
+
+More from this category
+Recent commentsmedix on Putting Your Time Inphil barrett on Don’t Fret Over The UkuleleChris Maple on Ask Hackaday: How Do You Prepare?8bitwiz on This Week
+Sentence 446: In Security: XcodeSpy, Insecure SMS, And Partial RedactionsThinkerer on Skid Steer Robot Chassis Takes A BeatingWilliam F. Dudley Jr. on Putting Your Time InInhibit on Putting Your Time Inmatt on Putting Your Time InSandro on How Fast Is The Universe Expanding?
+Sentence 447: The Riddle Of Two Values For The Hubble ConstantNQ on Don’t Fret Over The UkuleleNow on Hackaday.io
+
+s liked The Electric Flapper Dress.
+Sentence 448: Kris Winer has added dapeter as a contributor to Mothra: Acoustics Laboratory on a Stick.
+Sentence 449: Kris Winer has added paul.adam as a contributor to Mothra: Acoustics Laboratory on a Stick.
+Sentence 450: Star Lord liked Nautilus Sculptures.
+Sentence 451: daxavr liked LEDstrip Browser Simulator.
+Chris Weiss liked Mothra: Acoustics Laboratory on a Stick.
+Sentence 452: Angelote has updated details to  WEMOS Motor Shield firmware  for  steppers (I2C).
+Sentence 453: nodemcu12ecanada has updated the project titled Robot Arm with Web Page HMI.
+Sentence 454: Eben has updated the project titled Open Flow Meter.
+Sentence 455: Dobrica Pavlinušić liked ESP32 usb software host.
+Sentence 456: Home
+Blog
+Hackaday.io
+Tindie
+Hackaday Prize
+Video
+Submit A Tip
+About
+Contact Us
+
+Never miss a hack
+Follow on facebook
+Follow on twitter
+Follow on youtube
+Follow on rss
+Contact us
+Subscribe to Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+            Copyright © 2021             | 
+Hackaday, Hack A Day, and the Skull and Wrenches Logo are Trademarks of Hackaday.com
+Sentence 457: | 
+Privacy Policy
+ | 
+Terms of Service
+Powered by WordPress VIP 
+
+
+
+
+
+
+
+						By using our website and services, you expressly agree to the placement of our performance, functionality and advertising cookies.
+Sentence 458: Learn more
+OK
