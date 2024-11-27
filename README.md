@@ -5,8 +5,9 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 
 ## Create and activate a virtual environment. Run the following commands - or similar ones as needed -  to install these into your virtual environment:
 
-! pip install matplotlib
-install ipkernel
+! pip install matplotlib  ## pre question
+install ipkernel ## pre question
+python -m spacy download en_core_web_sm ## for question 3
 python -m pip install beautifulsoup4
 python -m pip install html5lib
 python -m pip install requests
