@@ -16,14 +16,14 @@ python -m pip install spacytextblob
 python.exe -m pip install --upgrade pip
 
 
-### Create and activate a Python virtual environment. 
-### Before starting the project, try all these imports FIRST
-### Address any errors you get running this code cell 
-### by installing the necessary packages into your active Python environment.
-### Try to resolve issues using your materials and the web.
-### If that doesn't work, ask for help in the discussion forums.
-### You can't complete the exercises until you import these - start early! 
-### We also import pickle and Counter (included in the Python Standard Library).
+#### Create and activate a Python virtual environment. 
+#### Before starting the project, try all these imports FIRST
+#### Address any errors you get running this code cell 
+#### by installing the necessary packages into your active Python environment.
+#### Try to resolve issues using your materials and the web.
+#### If that doesn't work, ask for help in the discussion forums.
+#### You can't complete the exercises until you import these - start early! 
+#### We also import pickle and Counter (included in the Python Standard Library).
 
 from collections import Counter
 import pickle
@@ -35,6 +35,12 @@ import matplotlib.pyplot as plt
 !pip list
 
 print('All prereqs installed.')# Create and activate a Python virtual environment. 
+
+#### Queston 3 python -m spacy download en_core_web_sm in virtual env.
+
+#### Question 5-feed the first sentence if does not find.
+
+#### Question 6-print to text file: scores_list.txt created to view each sentence score
 
 
 ## Rubric
