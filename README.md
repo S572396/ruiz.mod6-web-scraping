@@ -1,5 +1,9 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
+## Introduction: This repo will work with url "https://web.archive.org/web/20210327165005/https://hackaday.com/2021/03/22/how-laser-headlights-work/"
+## Sentences, words, text will be analyzed with filtering by tokens and lemmas and viewing scores. 
+## Histograms for the scores of tokens and lemmas will be created.
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
