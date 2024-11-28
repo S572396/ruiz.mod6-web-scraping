@@ -1,4 +1,4 @@
-Token-Based Scores for Each Sentence:
+Lemma-Based Scores for Each Sentence:
 Sentence 1: 0.14634146341463414
 Sentence 2: 0.0
 Sentence 3: 0.0

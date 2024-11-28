@@ -32,6 +32,8 @@ import matplotlib.pyplot as plt
 
 print('All prereqs installed.')# Create and activate a Python virtual environment. 
 
+#### before Question 1 created sentences_list txt file to view all sententences and aid visually
+
 #### Queston 3 python -m spacy download en_core_web_sm in virtual env.
 
 #### Question 5-feed the first sentence if does not find.
